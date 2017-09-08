@@ -1,0 +1,26 @@
+{
+  "name": "package_install",
+  "version": "1.0.0",
+  "description": "Installing a Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/ff3b8a54fb05c10c3be570f1b78a2393.git"
+  },
+  "keywords": [
+    "npm",
+    "chalk"
+  ],
+  "author": "Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/ff3b8a54fb05c10c3be570f1b78a2393"
+  },
+  "homepage": "https://gist.github.com/ff3b8a54fb05c10c3be570f1b78a2393",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
